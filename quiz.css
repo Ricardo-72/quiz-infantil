@@ -142,7 +142,7 @@ footer{
     }
     .questions{
 
-        margin:  3rem auto;
+        margin:  2rem auto;
         width: 90vw;
         padding: 2rem;
         background: goldenrod;
@@ -157,6 +157,16 @@ footer{
         background: rgb(233, 169, 74);
         border-radius: 1rem;
     }
+    #scoreboard, #answerBank{
+        width: 15rem;
+        background: rgba(228, 115, 24, 0.747);
+        padding: 2rem;
+        text-align: center;
+        margin: auto;
+        position: relative;
+        top: 2rem;
+        display: none;
+    }
 }
 @media ((max-width:375px)){
 
@@ -164,13 +174,13 @@ footer{
         font-size: 2.3rem;
     }
     img{
-        width: 3.3rem;
-        height: 3.3rem;
+        width: 2.2rem;
+        height: 2.2rem;
         border-radius: 50%;
     }
     .questions{
 
-        margin:  3rem auto;
+        margin:  1.5rem auto;
         width: 90vw;
         padding: 2rem;
         background: goldenrod;
@@ -181,8 +191,9 @@ footer{
         margin-bottom: 0.5rem;
         font-size: 1.2rem;
         border-bottom: solid 0.1rem rgba(100, 97, 97, 0.822);
-        width: 20rem;
+        width: 18rem;
         background: rgb(233, 169, 74);
         border-radius: 1rem;
     }
+    
 }
