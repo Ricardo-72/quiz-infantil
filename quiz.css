@@ -164,7 +164,7 @@ footer{
         margin-bottom: 0.5rem;
         font-size: 1.2rem;
         border-bottom: solid 0.1rem rgba(100, 97, 97, 0.822);
-        width: 23rem;
+        width: auto;
         background: rgb(233, 169, 74);
         border-radius: 1rem;
     }
@@ -200,7 +200,7 @@ footer{
     }
     .questions{
         margin:  1.5rem auto;
-        width: 95vw;
+        width: auto;
         padding: 2rem;
         background: goldenrod;
         cursor: default;
@@ -215,7 +215,7 @@ footer{
         margin-bottom: 0.5rem;
         font-size: 1.1rem;
         border-bottom: solid 0.1rem rgba(100, 97, 97, 0.822);
-        width: 19rem;
+        width: auto;
         background: rgb(233, 169, 74);
         border-radius: 1rem;
     }
