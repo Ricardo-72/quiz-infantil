@@ -131,7 +131,7 @@ footer{
     margin-top: 5.5rem;
 
 }
-@media ((max-width: 800px)){
+@media ((max-width:6400px)){
     #questions li{
        width: 150px;
         
