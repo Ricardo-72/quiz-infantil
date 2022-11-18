@@ -182,12 +182,13 @@ footer{
 @media ((max-width:320px)){
 
     #title{
-        font-size: 1.7rem;
+        font-size: 1.5rem;
     }
     img{
         width: 2.3rem;
         height: 2.3rem;
         border-radius: 50%;
+    
     }
     #vers-biblico{
         background: rgb(238, 155, 31);
@@ -195,7 +196,7 @@ footer{
         margin: 0.3rem;
         text-align: center;
         padding: 1.5rem;
-        width: auto;
+        width: 30rem;
         font-style: italic;
     }
     .questions{
@@ -219,5 +220,10 @@ footer{
         background: rgb(233, 169, 74);
         border-radius: 1rem;
     }
+    .centro {
+        float: right;
+        top: px
+        }
+    };
     
 }
