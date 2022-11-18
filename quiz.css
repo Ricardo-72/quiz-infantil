@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(115deg, rgba(101, 115, 209,0.8), rgba(202, 102, 211,0.5),url(/quizbg.jpg));
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+img{
+    width: 5.5rem;
+    height: 5.2rem;
+    border-radius: 50%;
+}
+.img{
+    position: fixed;
+}
+#title{
+    text-align: center;
+    padding: 0.8rem 0;
+    font-size:  3rem;
+    color: rgb(83, 49, 3);
+    background: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.questions{
+
+    margin:  3rem auto;
+    width: 90vw;
+    padding: 2rem;
+    background: goldenrod;
+    cursor: default;
+    border-radius: 1rem;
+}
+#question{
+    margin-bottom: 1rem;
+
+}
+.option{
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    border-bottom: solid 0.1rem rgba(100, 97, 97, 0.822);
+    width: 40rem;
+    background: rgb(233, 169, 74);
+    border-radius: 1rem;
+}
+.option:hover{
+    color: beige;
+    cursor: pointer;
+}
+ol{
+    position: relative;
+    padding: 0 1.5re;
+    color: brown;
+}
+span{
+    display: block;
+    padding: 0.1rem 0.7rem;
+    border-radius: 1rem;   
+}
+
+#answer{
+    margin-top: 2.5rem;
+
+}
+
+#stat{
+    margin-top: 1.5rem;
+    color: rgb(12, 7, 1);
+}
+.buttons{
+    text-align: center;
+}
+button{
+    padding: 0.2rem 1.5rem;
+    border: none;
+    font-size: 1.5rem;
+    border-radius: 1.5rem;
+    color: blueviolet;
+    background: rgb(125, 243, 125);
+    cursor: pointer;
+}
+button:active{
+    background: lavender;
+}
+
+#scoreboard, #answerBank{
+    width: 20rem;
+    background: rgba(228, 115, 24, 0.747);
+    padding: 2rem;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 5rem;
+    display: none;
+}
+
+#score-title{
+    margin: 1rem 0;
+}
+#score-btn, #check-answer{
+    margin-top: 1rem;
+}
+
+#score{
+    font-size: 2.5rem;
+}
+#answerBank li {
+    text-align: left;
+    margin-bottom: 0.2rem;
+    font-size: large;
+}
+#proxQuiz{
+    margin-top: 1rem;
+}
+#proximo{
+    border: none;
+    font-size: 1.5rem;
+    border-radius: 1.5rem;
+    color: rgb(79, 7, 146);
+    background: rgb(125, 243, 125);
+    text-decoration: none;
+    width: auto;
+}
+footer{
+    margin-top: 5.5rem;
+
+}
+@media ((max-width: 800px)){
+    #questions li{
+       width: 150px;
+        
+    }
+    #title{
+        font-size: 2.3rem;
+    }
+    img{
+        width: 3.3rem;
+        height: 3.3rem;
+        border-radius: 50%;
+    }
+    .questions{
+
+        margin:  3rem auto;
+        width: 90vw;
+        padding: 2rem;
+        background: goldenrod;
+        cursor: default;
+        border-radius: 1rem;
+    }
+    .option{
+        margin-bottom: 0.5rem;
+        font-size: 1.2rem;
+        border-bottom: solid 0.1rem rgba(100, 97, 97, 0.822);
+        width: 25rem;
+        background: rgb(233, 169, 74);
+        border-radius: 1rem;
+    }
+}
