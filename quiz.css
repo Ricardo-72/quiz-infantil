@@ -26,7 +26,7 @@ img{
     color: rgb(179, 112, 19);
     background: greenyellow;
     font-family: 'Times New Roman', Times, serif;
-    text-shadow: #000 2px 3px 2px;
+    text-shadow: #000 1px 2px 2px;
 
 }
 
@@ -34,7 +34,7 @@ img{
 #vers-biblico{
     background: rgb(238, 155, 31);
     border-radius: 1rem;
-    margin: 0.3rem;
+    margin: 0.3rem auto;
     text-align: center;
     padding: 1.5rem;
     width: 80rem;
