@@ -171,17 +171,17 @@ footer{
 @media ((max-width:375px)){
 
     #title{
-        font-size: 2.1rem;
+        font-size: 2.0rem;
     }
     img{
-        width: 2.2rem;
-        height: 2.2rem;
+        width: 2.3rem;
+        height: 2.3rem;
         border-radius: 50%;
     }
     .questions{
 
         margin:  1.5rem auto;
-        width: 91vw;
+        width: 95vw;
         padding: 2rem;
         background: goldenrod;
         cursor: default;
@@ -189,9 +189,9 @@ footer{
     }
     .option{
         margin-bottom: 0.5rem;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         border-bottom: solid 0.1rem rgba(100, 97, 97, 0.822);
-        width: 17rem;
+        width: 10rem;
         background: rgb(233, 169, 74);
         border-radius: 1rem;
     }
