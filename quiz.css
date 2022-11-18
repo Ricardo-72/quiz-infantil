@@ -144,7 +144,7 @@ footer{
 }
 @media ((max-width:800px)){
     #title{
-        font-size: 1.5rem;
+        font-size: 1.7rem;
     }
     #vers-biblico{
         background: rgb(238, 155, 31);
@@ -191,7 +191,7 @@ footer{
 @media ((max-width:320px)){
 
     #title{
-        font-size: 1.2rem;
+        font-size: 1.4rem;
     }
     img{
         width: 2.3rem;
