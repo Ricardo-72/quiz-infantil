@@ -132,10 +132,6 @@ footer{
 
 }
 @media ((max-width:800px)){
-    #questions li{
-       width: 150px;
-        
-    }
     #title{
         font-size: 2.3rem;
     }
@@ -157,16 +153,13 @@ footer{
         margin-bottom: 0.5rem;
         font-size: 1.2rem;
         border-bottom: solid 0.1rem rgba(100, 97, 97, 0.822);
-        width: 25rem;
+        width: 23rem;
         background: rgb(233, 169, 74);
         border-radius: 1rem;
     }
 }
-@media ((max-width:340px)){
-    #questions li{
-       width: 150px;
-        
-    }
+@media ((max-width:320px)){
+
     #title{
         font-size: 2.3rem;
     }
