@@ -6,24 +6,24 @@ var questionBank = [
         answer: 'Desobedeceu aos seus pais e a Deus?'
     },
     {
-        question: 'com quantos anos Jesus iniciou seu ministério?',
-        option: ['12 anos', '23 anos', '30 anos', '13 anos'],
-        answer: '30 anos'
+        question: 'Qual é o 1º mandamento que Deus nos abençoa com muitos anos de vida?',
+        option: ['Orar muito.', 'Vigiar.', 'Honrar pai e mãe', 'Ir para igreja todo domingo'],
+        answer: 'Honrar pai e mãe'
     },
     {
-        question: 'Quem anunciou a Maria o nome de Jesus?',
-        option: ['João Batista', 'Pedro', 'Gabriel', 'Miguel'],
-        answer: 'Gabriel'
+        question: 'Por que Jonas foi engolido por um peixe?',
+        option: ['Por que desobedeceu a Deus', 'b) Por que ele era mau', 'b) Por que ele era profeta', 'b) Por que ele não sabia nadar'],
+        answer: 'Por que desobedeceu a Deus'
     },
     {
-        question: 'Quantos livros tem o Antigo Testamento?',
-        option: ['27 livros', '39 livros', '19 livros', '37 livros'],
-        answer: '39 livros'
+        question: 'Quais é o 2º maior mandamento de Deus?',
+        option: ['Não faltar aos cultos', 'Dá o dízimo todo mês', 'Orar 3 vezes ao dia', 'amar o teu próximo como a ti mesmo'],
+        answer: 'amar o teu próximo como a ti mesmo.'
     },
     {
-        question: 'Quais os profetas que abriram um rio com a mesma capa?',
-        option: ['Josué e Moisés', 'Jeremias e Isaías', 'Ezequiel e Daniel', 'Elias e Eliseu'],
-        answer: 'Elias e Eliseu'
+        question: 'Quais os profetas que foi chamado por Deus ainda criança?',
+        option: ['Moisés', 'Jeremias', 'Ezequiel', 'Eliseu'],
+        answer: 'Jeremias'
     },
 ]
 
@@ -82,7 +82,6 @@ function nexQuestion(){
         quizContainer.style.display = 'none'; 
         scoreboard.style.display= 'block'
     }
-    
 }
 //evento click do botão
 next.addEventListener('click',nexQuestion);
