@@ -1,29 +1,29 @@
 //Questionario bank
 var questionBank = [
     {
-        question: 'Por quer Sansão perdeu seu poder, foi preso e morreu?',
-        option: ['Porque se casou?', 'Porque matou o leão?', 'Desobedeceu aos seus pais e a Deus?', 'Porque tinha os cabelos muito grande?'],
-        answer: 'Desobedeceu aos seus pais e a Deus?'
+        question: 'Qual foi o pecado o filho pródigo?',
+        option: ['Pediu sua parte da herança antes do tempo.', 'Não convidou o irmão mais velho para ir com ele.', 'Desobedeceu aos seus pais e a Deus.', 'Econimizou todo o dinheiro da sua herança.'],
+        answer: 'Pediu sua parte da herança antes do tempo.'
     },
     {
-        question: 'com quantos anos Jesus iniciou seu ministério?',
+        question: 'com quantos anos Jesus pregou pela primeira vez no templo?',
         option: ['12 anos', '23 anos', '30 anos', '13 anos'],
-        answer: '30 anos'
+        answer: '12 anos'
     },
     {
-        question: 'Quem anunciou a Maria o nome de Jesus?',
-        option: ['João Batista', 'Pedro', 'Gabriel', 'Miguel'],
-        answer: 'Gabriel'
+        question: 'O que Deus colocou no Jardim do Éden?',
+        option: ['Foram dois homens', 'foram duas mulheres', 'Um homem e uma mulher', 'Dois Anjos'],
+        answer: 'Um homem e uma mulher'
     },
     {
-        question: 'Quantos livros tem o Antigo Testamento?',
-        option: ['27 livros', '39 livros', '19 livros', '37 livros'],
-        answer: '39 livros'
+        question: 'O que nós aprendemos em Levítico. 20:13?',
+        option: ['Pode um homem se casar com outro homem', 'Pode uma mulher se casar com outra muher', 'Que Deus abençoa o casamento entre dois homens', 'Que é pecado contra Deus e podem morrer.'],
+        answer: 'Que é pecado contra Deus e podem morrer.'
     },
     {
-        question: 'Quais os profetas que abriram um rio com a mesma capa?',
-        option: ['Josué e Moisés', 'Jeremias e Isaías', 'Ezequiel e Daniel', 'Elias e Eliseu'],
-        answer: 'Elias e Eliseu'
+        question: 'O nós aprendemos em Proverbios 6:20?',
+        option: ['Que Jesus já tinha nascido', 'Que os filhos podem desobedecer seus pais', 'Que podem contar uma mentirinha', 'Que os filhos tem que obedecer o Pai, e ouvir os ensinos da mãe.'],
+        answer: 'Que os filhos tem que obedecer o Pai, e ouvir os ensinos da mãe.'
     },
 ]
 

@@ -1,29 +1,29 @@
 //Questionario bank
 var questionBank = [
     {
-        question: 'Por quer Sansão perdeu seu poder, foi preso e morreu?',
-        option: ['Porque se casou?', 'Porque matou o leão?', 'Desobedeceu aos seus pais e a Deus?', 'Porque tinha os cabelos muito grande?'],
-        answer: 'Desobedeceu aos seus pais e a Deus?'
+        question: 'Jesus chamou 12 apóstolos e Israel tem 12 tribos, qual a soma de 12 + 12?',
+        option: ['É = 10', 'É = 18.', 'É = 36', 'É = 24.'],
+        answer: 'É = 24.'
     },
     {
-        question: 'com quantos anos Jesus iniciou seu ministério?',
-        option: ['12 anos', '23 anos', '30 anos', '13 anos'],
-        answer: '30 anos'
+        question: 'Jesus começou a fazer a obra do seu Pai com 30 anos e morreu com 33 anos, quantos anos durou seu trabalho?',
+        option: ['12 anos', '3 anos', '30 anos', '13 anos'],
+        answer: '3 anos'
     },
     {
-        question: 'Quem anunciou a Maria o nome de Jesus?',
-        option: ['João Batista', 'Pedro', 'Gabriel', 'Miguel'],
-        answer: 'Gabriel'
+        question: 'Jacó teve 12 filhos mas, só 2 foram filhos de Raquel, quanto é 12 - 2?',
+        option: ['É = 10', 'É = 8', 'É = 14', 'É = 11'],
+        answer: 'É = 10'
     },
     {
-        question: 'Quantos livros tem o Antigo Testamento?',
-        option: ['27 livros', '39 livros', '19 livros', '37 livros'],
-        answer: '39 livros'
+        question: 'Moisés tinha 80 anos quando Deus mandou ele tirar o povo do Egito, e ele andou no deserto por 40 anos, quanto é 80 + 40?',
+        option: ['12 anos.', '120 anos', '90 anos', '110 anos'],
+        answer: '120 anos'
     },
     {
-        question: 'Quais os profetas que abriram um rio com a mesma capa?',
-        option: ['Josué e Moisés', 'Jeremias e Isaías', 'Ezequiel e Daniel', 'Elias e Eliseu'],
-        answer: 'Elias e Eliseu'
+        question: 'Moisés viveu 120 anos e Josué seu sucessor viveu 110, quanto é 120 - 110?',
+        option: ['É 12 anos.', 'É 100 anos.', 'É 5 anos.', 'É 10 anos.'],
+        answer: 'É 10 anos.'
     },
 ]
 

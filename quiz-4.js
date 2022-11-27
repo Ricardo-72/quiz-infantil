@@ -1,29 +1,29 @@
 //Questionario bank
 var questionBank = [
     {
-        question: 'Por quer Sansão perdeu seu poder, foi preso e morreu?',
-        option: ['Porque se casou?', 'Porque matou o leão?', 'Desobedeceu aos seus pais e a Deus?', 'Porque tinha os cabelos muito grande?'],
-        answer: 'Desobedeceu aos seus pais e a Deus?'
+        question: 'Onde se encontra na Bíblia " O Senhor é meu pastor, nada me faltará"??',
+        option: ['Salmos 23.', 'Salmos 1', 'Salmos 90.', 'Salmos 91'],
+        answer: 'Salmos 23.'
     },
     {
-        question: 'com quantos anos Jesus iniciou seu ministério?',
-        option: ['12 anos', '23 anos', '30 anos', '13 anos'],
-        answer: '30 anos'
+        question: 'Qual destes nomes não era discípulo de Jesus?',
+        option: ['José.', 'Pedro.', 'João.', 'Mateus'],
+        answer: 'José.'
     },
     {
-        question: 'Quem anunciou a Maria o nome de Jesus?',
-        option: ['João Batista', 'Pedro', 'Gabriel', 'Miguel'],
-        answer: 'Gabriel'
+        question: 'Qual o nome do primeiro casal a existir na terra?',
+        option: ['José e Maria.', 'Abraão e Sara.', 'Adão e Eva.', 'Jocó e Raquel'],
+        answer: 'Adão e Eva.'
     },
     {
-        question: 'Quantos livros tem o Antigo Testamento?',
-        option: ['27 livros', '39 livros', '19 livros', '37 livros'],
-        answer: '39 livros'
+        question: 'Como se chama o momento quando o mundo ficou coberto por água?',
+        option: ['Tempestade.', 'Chuvisco.', 'Dilúvio', 'Enchente.'],
+        answer: 'Dilúvio'
     },
     {
-        question: 'Quais os profetas que abriram um rio com a mesma capa?',
-        option: ['Josué e Moisés', 'Jeremias e Isaías', 'Ezequiel e Daniel', 'Elias e Eliseu'],
-        answer: 'Elias e Eliseu'
+        question: 'Em qual dia foi criado o homem?',
+        option: ['Foi no 1º dia.', 'Foi no 5º dia.', 'Foi no 7º dia.', 'Foi no 6º dia.'],
+        answer: 'Foi no 6º dia.'
     },
 ]
 

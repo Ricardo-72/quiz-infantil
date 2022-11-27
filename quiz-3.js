@@ -1,29 +1,29 @@
 //Questionario bank
 var questionBank = [
     {
-        question: 'Por quer Sansão perdeu seu poder, foi preso e morreu?',
-        option: ['Porque se casou?', 'Porque matou o leão?', 'Desobedeceu aos seus pais e a Deus?', 'Porque tinha os cabelos muito grande?'],
-        answer: 'Desobedeceu aos seus pais e a Deus?'
+        question: 'Quanto é 2 x 3?',
+        option: ['É igua à 5', 'É igua à 6', 'É igua à 12', 'É igua à 7'],
+        answer: 'É igua à 6'
     },
     {
-        question: 'com quantos anos Jesus iniciou seu ministério?',
-        option: ['12 anos', '23 anos', '30 anos', '13 anos'],
-        answer: '30 anos'
+        question: 'Quanto é 3 X 3',
+        option: ['É igua à 9', 'É igua à 6', 'É igua à 7', 'É igua à 10'],
+        answer: 'É igua à 9'
     },
     {
-        question: 'Quem anunciou a Maria o nome de Jesus?',
-        option: ['João Batista', 'Pedro', 'Gabriel', 'Miguel'],
-        answer: 'Gabriel'
+        question: 'Quanto é 3 x 5?',
+        option: ['É igua à 8', 'É igua à à 12', 'É igua à 9', 'É igua à 15'],
+        answer: 'É igua à 15'
     },
     {
-        question: 'Quantos livros tem o Antigo Testamento?',
-        option: ['27 livros', '39 livros', '19 livros', '37 livros'],
-        answer: '39 livros'
+        question: 'Quando 4 x 4?',
+        option: ['É igua à 4', 'É igua à 8', 'É igua à 16', 'É igua à 20'],
+        answer: 'É igua à 16'
     },
     {
-        question: 'Quais os profetas que abriram um rio com a mesma capa?',
-        option: ['Josué e Moisés', 'Jeremias e Isaías', 'Ezequiel e Daniel', 'Elias e Eliseu'],
-        answer: 'Elias e Eliseu'
+        question: 'Quanto é 2 x 5?',
+        option: ['É igua à 10', 'É igua à 7', 'É igua à 11', 'É igua à 8'],
+        answer: 'É igua à 10'
     },
 ]
 
