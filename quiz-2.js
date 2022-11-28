@@ -1,7 +1,7 @@
 //Questionario bank
 var questionBank = [
     {
-        question: 'Qual foi o pecado o filho pródigo?',
+        question: 'Qual foi o pecado do filho pródigo?',
         option: ['Pediu sua parte da herança antes do tempo.', 'Não convidou o irmão mais velho para ir com ele.', 'Desobedeceu aos seus pais e a Deus.', 'Econimizou todo o dinheiro da sua herança.'],
         answer: 'Pediu sua parte da herança antes do tempo.'
     },
