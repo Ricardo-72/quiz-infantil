@@ -17,11 +17,11 @@ var questionBank = [
     },
     {
         question: 'O que nós aprendemos em Levítico. 20:13?',
-        option: ['Pode um homem se casar com outro homem', 'Pode uma mulher se casar com outra muher', 'Que Deus abençoa o casamento entre dois homens', 'Que é pecado contra Deus e podem morrer.'],
-        answer: 'Que é pecado contra Deus e podem morrer.'
+        option: ['Pode um homem se casar com outro homem', 'Pode uma mulher se casar com outra muher', 'Que Deus abençoa o casamento entre dois homens', 'Aprendemos que Deus proíbe o casamento de homem com homem e de mulher com mulher.'],
+        answer: 'Aprendemos que Deus proíbe o casamento de homem com homem e de mulher com mulher.'
     },
     {
-        question: 'O nós aprendemos em Proverbios 6:20?',
+        question: 'O que nós aprendemos em Proverbios 6:20?',
         option: ['Que Jesus já tinha nascido', 'Que os filhos podem desobedecer seus pais', 'Que podem contar uma mentirinha', 'Que os filhos tem que obedecer o Pai, e ouvir os ensinos da mãe.'],
         answer: 'Que os filhos tem que obedecer o Pai, e ouvir os ensinos da mãe.'
     },
