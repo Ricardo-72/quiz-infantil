@@ -21,7 +21,7 @@ var questionBank = [
         answer: 'amar o teu próximo como a ti mesmo.'
     },
     {
-        question: 'Qual o profeta que foi chamado por Deus qunando ainda era criança?',
+        question: 'Qual o profeta que foi chamado por Deus quando ainda era criança?',
         option: ['Moisés', 'Jeremias', 'Ezequiel', 'Eliseu'],
         answer: 'Jeremias'
     },
