@@ -16,12 +16,12 @@ var questionBank = [
         answer: 'Por que desobedeceu a Deus'
     },
     {
-        question: 'Quais é o 2º maior mandamento de Deus?',
+        question: 'Qual é o 2º maior mandamento de Deus?',
         option: ['Não faltar aos cultos', 'Dá o dízimo todo mês', 'Orar 3 vezes ao dia', 'amar o teu próximo como a ti mesmo.'],
         answer: 'amar o teu próximo como a ti mesmo.'
     },
     {
-        question: 'Quais os profetas que foi chamado por Deus ainda criança?',
+        question: 'Qual o profeta que foi chamado por Deus qunando ainda era criança?',
         option: ['Moisés', 'Jeremias', 'Ezequiel', 'Eliseu'],
         answer: 'Jeremias'
     },
