@@ -1,14 +1,14 @@
 //Questionario bank
 var questionBank = [
     {
-        question: 'Por quer Sansão perdeu seu poder, foi preso e morreu?',
-        option: ['Porque se casou?', 'Porque matou o leão?', 'Desobedeceu aos seus pais e a Deus?', 'Porque tinha os cabelos muito grande?'],
-        answer: 'Desobedeceu aos seus pais e a Deus?'
+        question: 'Qual o castigo que Sansão recebeu por ter desobedecido à Deus?',
+        option: ['Ficou doente.', 'Foi morto por leão.', 'Ficou cego.', 'Levou 30 chibatadas'],
+        answer: 'Ficou cego.'
     },
     {
-        question: 'Qual é o 1º mandamento que Deus nos abençoa com muitos anos de vida?',
-        option: ['Orar muito.', 'Vigiar.', 'Honrar pai e mãe', 'Ir para igreja todo domingo'],
-        answer: 'Honrar pai e mãe'
+        question: 'Qual o nome do homem que construiu um barco com 3 andares?',
+        option: ['Moisés.', 'Davi.', 'Noé.', 'Abraão.'],
+        answer: 'Noé.'
     },
     {
         question: 'Por que Jonas foi engolido por um peixe?',
@@ -21,9 +21,9 @@ var questionBank = [
         answer: 'amar o teu próximo como a ti mesmo.'
     },
     {
-        question: 'Qual o profeta que foi chamado por Deus quando ainda era criança?',
-        option: ['Moisés', 'Jeremias', 'Ezequiel', 'Eliseu'],
-        answer: 'Jeremias'
+        question: 'Qual dos nomes abaixo já tinha um barco quando ainda era uma criança?',
+        option: ['Moisés.', 'Jeremias.', 'Ezequiel.', 'Eliseu.'],
+        answer: 'Moisés.'
     },
 ]
 
